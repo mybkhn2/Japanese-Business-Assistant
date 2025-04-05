@@ -1,1 +1,1 @@
-# -Japanese-Business-Assistant Extension
+# Japanese-Business-Assistant Extension
