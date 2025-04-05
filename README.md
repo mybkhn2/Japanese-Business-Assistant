@@ -1,1 +1,1 @@
-# Vietnamese-Japanese-Business-Extension
+# -Japanese-Business-Assistant Extension
